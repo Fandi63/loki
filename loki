@@ -1,0 +1,4 @@
+clear
+figlet LokiikoL
+termux-tts-speak Ahoj kundo
+bash loki
